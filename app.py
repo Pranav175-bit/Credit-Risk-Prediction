@@ -24,7 +24,7 @@ st.set_page_config(
 st.title("🏦 Credit Risk Prediction")
 st.subheader("Loan Applicant Risk Classification")
 
-st.image("images/modern_fintech_dashboard_illustration_banner.png", use_container_width=True)
+st.image("images/modern_fintech_dashboard_illustration_banner.png", width="stretch")
 
 st.write(
     "This app predicts whether a loan applicant is risky or non-risky "
